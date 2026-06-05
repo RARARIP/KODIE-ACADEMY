@@ -1,0 +1,6 @@
+{
+  "name": "Agendamento de Visitas - Wilson Sons",
+  "description": "Sistema de agendamento de visitas ao estaleiro da Wilson Sons com validacao de seguranca, calendario interativo, gestao de EPIs e monitoramento de dispatches e status.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
